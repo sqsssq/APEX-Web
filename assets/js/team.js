@@ -59,7 +59,7 @@
           photo +
           '" class="img-fluid" alt="' +
           name +
-          '"></div>'
+          '" loading="lazy" decoding="async"></div>'
         : "") +
       '<div class="member-info p-0">' +
       '<h4 class="mb-1">' +
@@ -134,5 +134,4 @@
       }
     });
 })();
-
 
