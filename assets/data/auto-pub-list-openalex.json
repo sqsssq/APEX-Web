@@ -1,8 +1,55 @@
 {
-  "last_updated": "2026-05-11 16:27:54",
+  "last_updated": "2026-08-03 19:38:53",
   "source": "OpenAlex",
-  "total_count": 132,
+  "total_count": 154,
   "publications": [
+    {
+      "id": "https://openalex.org/W7166583556",
+      "title": "“I Do Not Dare to Try and Ask” Comprehensive Framing of Chinese Older Adults’ Difficulties and Corresponding Mental Barriers in Completing Smartphone Interaction Tasks",
+      "authors": [
+        "Xiaozhu Hu",
+        "Zhenhui Peng",
+        "Xuhai Xu",
+        "Jinghe Cai",
+        "Xiaochen Liu",
+        "Mingming Fan",
+        "Tristan Braud",
+        "Chun Yu",
+        "Yuanchun Shi"
+      ],
+      "venue": "International Journal of Human-Computer Interaction",
+      "year": "2026",
+      "link": "https://doi.org/10.1080/10447318.2026.2672589",
+      "type": "Journal",
+      "doi": "https://doi.org/10.1080/10447318.2026.2672589",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:07"
+    },
+    {
+      "id": "https://openalex.org/W7164527801",
+      "title": "Who Gets Left Out of Digital Banking in Later Life? Barriers and Opportunities in Hong Kong's Silver Population",
+      "authors": [
+        "Clarence Chi San Cheung",
+        "Jianan Liu",
+        "Lulin Chen",
+        "Qiongyan Chen",
+        "Luchen Li",
+        "Pan Hui",
+        "Lik-Hang Lee",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2026 Designing Interactive Systems Conference",
+      "year": "2026",
+      "link": "https://doi.org/10.1145/3800645.3812886",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3800645.3812886",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:12"
+    },
     {
       "id": "https://openalex.org/W7160543659",
       "title": "Understanding and Designing Technology to Support Mentoring Functions in Chinese Design Teams",
@@ -23,6 +70,26 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:02:16"
+    },
+    {
+      "id": "https://openalex.org/W7166583873",
+      "title": "To Perform/ To Live: Decolonizing of Digital Music Instruments and Feminism with Human-AI Co-Created Embodied Experience of Daily Objects 45",
+      "authors": [
+        "Shumeng Zhang",
+        "Shiqi Lin",
+        "Tiancheng Liu",
+        "Mingming Fan",
+        "Raul Masu"
+      ],
+      "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+      "year": "2026",
+      "link": "https://doi.org/10.1145/3816078",
+      "type": "Journal",
+      "doi": "https://doi.org/10.1145/3816078",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:08"
     },
     {
       "id": "https://openalex.org/W7154151789",
@@ -63,6 +130,26 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:02:19"
+    },
+    {
+      "id": "https://openalex.org/W7164861004",
+      "title": "Stand Up, Head Up, Stretch Up: Exploring Opportunities for Context-Aware Adaptive Stretching in MR for Microbreaks among Sedentary Workers",
+      "authors": [
+        "Zhiqing Wu",
+        "Ziyan Wang",
+        "Junan Xie",
+        "Jiawei Li",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "year": "2026",
+      "link": "https://doi.org/10.1145/3810207",
+      "type": "Journal",
+      "doi": "https://doi.org/10.1145/3810207",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:09"
     },
     {
       "id": "https://openalex.org/W7154002669",
@@ -193,6 +280,45 @@
       "backfill_updated_at": "2026-05-09 18:02:27"
     },
     {
+      "id": "https://openalex.org/W7163060673",
+      "title": "Facilitating Inter-Generational Communication Through Virtual Reality: An Investigation of a Culturally Significant Topic (Xiqu)",
+      "authors": [
+        "Xiaoying Wei",
+        "Fangtao Zhao",
+        "Yingna Wang",
+        "Zeyu Xiong",
+        "Mingming Fan"
+      ],
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": "2026",
+      "link": "https://doi.org/10.1109/tvcg.2026.3697818",
+      "type": "Journal",
+      "doi": "https://doi.org/10.1109/tvcg.2026.3697818",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:13"
+    },
+    {
+      "id": "https://openalex.org/W7164488593",
+      "title": "Exploring Modular Wearable Strategies for Motor Impairments: Insights from Design Probe Workshops with Rehabilitation Clinicians",
+      "authors": [
+        "Janet Ka-man Choi",
+        "Mengyang Wang",
+        "Pan Hui",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2026 Designing Interactive Systems Conference",
+      "year": "2026",
+      "link": "https://doi.org/10.1145/3800645.3813046",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3800645.3813046",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:10"
+    },
+    {
       "id": "https://openalex.org/W7153883828",
       "title": "Exploring How Telepresence Robot Might Facilitate Communication between Remote Helpers and Older Adults When Learning to Use Physical Devices",
       "authors": [
@@ -212,6 +338,28 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:02:28"
+    },
+    {
+      "id": "https://openalex.org/W7171691740",
+      "title": "DVD: Scaffolding Non-experts' Ideation of Data Videos through Co-creation with AI",
+      "authors": [
+        "Xiaozhu Hu",
+        "Yuchao Zhuo",
+        "Bingyuan Wang",
+        "Zeyu Wang",
+        "Mingming Fan",
+        "Tristan Braud",
+        "Xian Xu"
+      ],
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": "2026",
+      "link": "https://doi.org/10.1109/tvcg.2026.3717858",
+      "type": "Journal",
+      "doi": "https://doi.org/10.1109/tvcg.2026.3717858",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:15"
     },
     {
       "id": "https://openalex.org/W7143360072",
@@ -234,6 +382,25 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:02:29"
+    },
+    {
+      "id": "https://openalex.org/W7168189699",
+      "title": "Beyond Compliance: How AI Could Help Creative Writers by Refusing Them",
+      "authors": [
+        "Hua Xuan Qin",
+        "Guangzhi Zhu",
+        "Mingming Fan",
+        "Pan Hui"
+      ],
+      "venue": "Proceedings of the 2026 Conference on Creativity and Cognition",
+      "year": "2026",
+      "link": "https://doi.org/10.1145/3803784.3807571",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3803784.3807571",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:06"
     },
     {
       "id": "https://openalex.org/W7153778575",
@@ -512,6 +679,27 @@
       "backfill_updated_at": "2026-05-09 18:02:51"
     },
     {
+      "id": "https://openalex.org/W4407719147",
+      "title": "RemoteChess: Enhancing Older Adults' Social Connectedness via Designing a Virtual Reality Chinese Chess (Xiangqi) Community",
+      "authors": [
+        "Qianjie Wei",
+        "Xiaoying Wei",
+        "Yiqi Liang",
+        "Fan Lin",
+        "Nuonan Si",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+      "year": "2025",
+      "link": "https://doi.org/10.1145/3706598.3714236",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3706598.3714236",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:20"
+    },
+    {
       "id": "https://openalex.org/W4410061437",
       "title": "Practices and Challenges of Online Love-seeking Among Deaf or Hard of Hearing People: A Case Study in China",
       "authors": [
@@ -597,6 +785,30 @@
       "backfill_updated_at": "2026-05-09 18:02:58"
     },
     {
+      "id": "https://openalex.org/W4407632469",
+      "title": "InteRecon: Towards Reconstructing Interactivity of Personal Memorable Items in Mixed Reality",
+      "authors": [
+        "Zisu Li",
+        "Jiawei Li",
+        "Zeyu Xiong",
+        "Shumeng Zhang",
+        "Faraz Faruqi",
+        "Stefanie Mueller",
+        "Chen Liang",
+        "Xiaojuan Ma",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+      "year": "2025",
+      "link": "https://doi.org/10.1145/3706598.3713882",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3706598.3713882",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:21"
+    },
+    {
       "id": "https://openalex.org/W4406331886",
       "title": "How Can Haptic Feedback Assist People with Blind and Low Vision (BLV): A Systematic Literature Review",
       "authors": [
@@ -660,6 +872,65 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-10 14:45:11"
+    },
+    {
+      "id": "https://openalex.org/W4409736209",
+      "title": "Facilitating Daily Practice in Intangible Cultural Heritage through Virtual Reality: A Case Study of Traditional Chinese Flower Arrangement",
+      "authors": [
+        "Yingna Wang",
+        "Qingqin Liu",
+        "Xiaoying Wei",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+      "year": "2025",
+      "link": "https://doi.org/10.1145/3706598.3713409",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3706598.3713409",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:18"
+    },
+    {
+      "id": "https://openalex.org/W4404088348",
+      "title": "Exploring the Design of Virtual Reality Museums to Support Remote Visitation With Older Adults",
+      "authors": [
+        "Jingling Zhang",
+        "Qianjie Wei",
+        "Xiaoying Wei",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2025 International Conference on Human-Engaged Computing",
+      "year": "2025",
+      "link": "https://doi.org/10.1145/3786995.3787030",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3786995.3787030",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:16"
+    },
+    {
+      "id": "https://openalex.org/W4415538713",
+      "title": "ExplorAR: Assisting Older Adults to Learn Smartphone Apps through AR-powered Trial-and-Error with Interactive Guidance",
+      "authors": [
+        "Jiawei Li",
+        "Linjie Qiu",
+        "Zhiqing Wu",
+        "Qiongyan Chen",
+        "Ziyan Wang",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 33rd ACM International Conference on Multimedia",
+      "year": "2025",
+      "link": "https://doi.org/10.1145/3746027.3755578",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3746027.3755578",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:17"
     },
     {
       "id": "https://openalex.org/W4410536704",
@@ -1088,6 +1359,30 @@
       "backfill_updated_at": "2026-05-09 18:03:41"
     },
     {
+      "id": "https://openalex.org/W4392677717",
+      "title": "To Reach the Unreachable: Exploring the Potential of VR Hand Redirection for Upper Limb Rehabilitation",
+      "authors": [
+        "Peixuan Xiong",
+        "Yukai Zhang",
+        "Nandi Zhang",
+        "Shihan Fu",
+        "Xin Li",
+        "Yadan Zheng",
+        "Jinni Zhou",
+        "Xiquan Hu",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+      "year": "2024",
+      "link": "https://doi.org/10.1145/3613904.3642912",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3613904.3642912",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:24"
+    },
+    {
       "id": "https://openalex.org/W4402716022",
       "title": "SplattingAvatar: Realistic Real-Time Human Avatars With Mesh-Embedded Gaussian Splatting",
       "authors": [
@@ -1157,23 +1452,6 @@
       "backfill_updated_at": "2026-05-09 18:03:46"
     },
     {
-      "id": "https://openalex.org/W4403346440",
-      "title": "Positive solutions for the periodic-parabolic problem with large diffusion",
-      "authors": [
-        "Mingming Fan",
-        "Jianwen Sun"
-      ],
-      "venue": "Networks and Heterogeneous Media",
-      "year": "2024",
-      "link": "https://doi.org/10.3934/nhm.2024049",
-      "type": "Journal",
-      "doi": "https://doi.org/10.3934/nhm.2024049",
-      "backfill_processed": true,
-      "backfill_source": "crossref",
-      "backfill_status": "ok",
-      "backfill_updated_at": "2026-05-09 18:03:48"
-    },
-    {
       "id": "https://openalex.org/W4396832363",
       "title": "Neural Canvas: Supporting Scenic Design Prototyping by Integrating 3D Sketching and Generative AI",
       "authors": [
@@ -1213,6 +1491,27 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:03:51"
+    },
+    {
+      "id": "https://openalex.org/W4392677677",
+      "title": "LightSword: A Customized Virtual Reality Exergame for Long-Term Cognitive Inhibition Training in Older Adults",
+      "authors": [
+        "Qiuxin Du",
+        "Zhen Song",
+        "Haiyan Jiang",
+        "Xiaoying Wei",
+        "Dongdong Weng",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+      "year": "2024",
+      "link": "https://doi.org/10.1145/3613904.3642187",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3613904.3642187",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:23"
     },
     {
       "id": "https://openalex.org/W4404478847",
@@ -1667,6 +1966,25 @@
       "backfill_updated_at": "2026-05-09 18:04:30"
     },
     {
+      "id": "https://openalex.org/W4322760389",
+      "title": "Sparkling Silence: Practices and Challenges of Livestreaming Among Deaf or Hard of Hearing Streamers",
+      "authors": [
+        "Beiyan Cao",
+        "Changyang He",
+        "Muzhi Zhou",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": "2023",
+      "link": "https://doi.org/10.1145/3544548.3581053",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3544548.3581053",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:29"
+    },
+    {
       "id": "https://openalex.org/W4360991088",
       "title": "SmartRecorder: An IMU-based Video Tutorial Creation by Demonstration System for Smartphone Interaction Tasks",
       "authors": [
@@ -1796,6 +2114,24 @@
       "backfill_updated_at": "2026-05-09 18:04:41"
     },
     {
+      "id": "https://openalex.org/W4323650652",
+      "title": "Enhancing Older Adults’ Gesture Typing Experience Using the T9 Keyboard on Small Touchscreen Devices",
+      "authors": [
+        "Emily Kuang",
+        "Ruihuan Chen",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": "2023",
+      "link": "https://doi.org/10.1145/3544548.3581105",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3544548.3581105",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:31"
+    },
+    {
       "id": "https://openalex.org/W4366590877",
       "title": "Enabling Voice-Accompanying Hand-to-Face Gesture Recognition with Cross-Device Sensing",
       "authors": [
@@ -1841,6 +2177,67 @@
       "backfill_updated_at": "2026-05-09 18:04:44"
     },
     {
+      "id": "https://openalex.org/W4321594212",
+      "title": "CoPracTter: Toward Integrating Personalized Practice Scenarios, Timely Feedback and Social Support into An Online Support Tool for Coping with Stuttering in China",
+      "authors": [
+        "Li Feng",
+        "Zeyu Xiong",
+        "Xinyi Li",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": "2023",
+      "link": "https://doi.org/10.1145/3544548.3581309",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3544548.3581309",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:32"
+    },
+    {
+      "id": "https://openalex.org/W4323650772",
+      "title": "Collaboration with Conversational AI Assistants for UX Evaluation: Questions and How to Ask them (Voice vs. Text)",
+      "authors": [
+        "Emily Kuang",
+        "Ehsan Jahangirzadeh Soure",
+        "Mingming Fan",
+        "Jian Zhao",
+        "Kristen Shinohara"
+      ],
+      "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": "2023",
+      "link": "https://doi.org/10.1145/3544548.3581247",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3544548.3581247",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:27"
+    },
+    {
+      "id": "https://openalex.org/W4322760894",
+      "title": "Bridging the Generational Gap: Exploring How Virtual Reality Supports Remote Communication Between Grandparents and Grandchildren",
+      "authors": [
+        "Xiaoying Wei",
+        "Yizheng Gu",
+        "Emily Kuang",
+        "Xian Wang",
+        "Beiyan Cao",
+        "Xiaofu Jin",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": "2023",
+      "link": "https://doi.org/10.1145/3544548.3581405",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3544548.3581405",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:26"
+    },
+    {
       "id": "https://openalex.org/W4387993606",
       "title": "A Multi-modal Toolkit to Support DIY Assistive Technology Creation for Blind and Low Vision People",
       "authors": [
@@ -1859,6 +2256,30 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:04:47"
+    },
+    {
+      "id": "https://openalex.org/W4319653855",
+      "title": "\"I am the follower, also the boss\": Exploring Different Levels of Autonomy and Machine Forms of Guiding Robots for the Visually Impaired",
+      "authors": [
+        "Yan Zhang",
+        "Ziang Li",
+        "Haole Guo",
+        "Luyao Wang",
+        "Qihe Chen",
+        "Wenjie Jiang",
+        "Mingming Fan",
+        "Guyue Zhou",
+        "Jiangtao Gong"
+      ],
+      "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+      "year": "2023",
+      "link": "https://doi.org/10.1145/3544548.3580884",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3544548.3580884",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:28"
     },
     {
       "id": "https://openalex.org/W4225105092",
@@ -1896,6 +2317,23 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:04:49"
+    },
+    {
+      "id": "https://openalex.org/W4288099333",
+      "title": "“I Used To Carry A Wallet, Now I Just Need To Carry My Phone”: Understanding Current Banking Practices and Challenges Among Older Adults in China",
+      "authors": [
+        "Xiaofu Jin",
+        "Mingming Fan"
+      ],
+      "venue": "Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility",
+      "year": "2022",
+      "link": "https://doi.org/10.1145/3517428.3544820",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3517428.3544820",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:33"
     },
     {
       "id": "https://openalex.org/W4225116420",
@@ -2127,6 +2565,23 @@
       "backfill_source": "crossref",
       "backfill_status": "ok",
       "backfill_updated_at": "2026-05-09 18:04:53"
+    },
+    {
+      "id": "https://openalex.org/W4210933082",
+      "title": "Think-Aloud Verbalizations for Identifying User Experience Problems: Effects of Language Proficiency with Chinese Non-Native English Speakers",
+      "authors": [
+        "Mingming Fan",
+        "Lingyun Zhu"
+      ],
+      "venue": "The Ninth International Symposium of Chinese CHI",
+      "year": "2021",
+      "link": "https://doi.org/10.1145/3490355.3490358",
+      "type": "Conference",
+      "doi": "https://doi.org/10.1145/3490355.3490358",
+      "backfill_processed": true,
+      "backfill_source": "crossref",
+      "backfill_status": "ok",
+      "backfill_updated_at": "2026-08-03 19:38:35"
     },
     {
       "id": "https://openalex.org/W4200171428",
