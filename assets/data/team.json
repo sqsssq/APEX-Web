@@ -205,6 +205,69 @@
       "role": "phd"
     },
     {
+      "name": "Jiawei Li",
+      "title": "Ph.D. Student",
+      "time": "2026-Present, 2024-2026",
+      "link": "",
+      "note": "with Prof. Xudong Wang",
+      "photo": "assets/img/member/lijiawei-team.webp",
+      "role": "phd"
+    },
+    {
+      "name": "Qing Shi",
+      "title": "Ph.D. Student",
+      "time": "2026-Present, 2024-2026",
+      "link": "",
+      "note": "with Prof. Tai-Kai Ng",
+      "photo": "assets/img/member/石青-图片-team.webp",
+      "role": "phd"
+    },
+    {
+      "name": "Huiyang Liang",
+      "title": "Ph.D. Student",
+      "time": "2026-Present, 2024-2026",
+      "link": "",
+      "note": "with Prof. Guohuibin Li",
+      "photo": "assets/img/member/HuiyangLIANG-图片-team-upright.webp",
+      "role": "phd"
+    },
+    {
+      "name": "Siyu Chen",
+      "title": "Ph.D. Student (Co-supervision)",
+      "time": "2026-Present, 2024-2026",
+      "link": "",
+      "note": "with Prof. Tengjia Zuo",
+      "photo": "assets/img/member/陈思宇-图片-team.webp",
+      "role": "phd"
+    },
+    {
+      "name": "Linjie Qiu",
+      "title": "Ph.D. Student (Co-supervision)",
+      "time": "2026-Present, 2024-2026",
+      "link": "",
+      "note": "with Prof. Xudong Wang",
+      "photo": "assets/img/member/邱林杰LinjieQiu-图片-team.webp",
+      "role": "phd"
+    },
+    {
+      "name": "Wei Zhang",
+      "title": "Ph.D. Student",
+      "time": "2026-Present",
+      "link": "",
+      "note": "with Prof. Moyan Li",
+      "photo": "assets/img/member/zhangwei-team.webp",
+      "role": "phd"
+    },
+    {
+      "name": "Bingchen Guo",
+      "title": "Ph.D. Student",
+      "time": "2026-Present",
+      "link": "",
+      "note": "with Prof. Kaishun Wu",
+      "photo": "assets/img/member/郭炳辰-图片-team.webp",
+      "role": "phd"
+    },
+    {
       "name": "Xian Li",
       "title": "MPhil Student",
       "time": "2024-Present",
@@ -259,20 +322,12 @@
       "link": "",
       "photo": "assets/img/member/鄂呈闻-图片-team.webp",
       "role": "mphil"
-    },
-    {
-      "name": "Bingchen Guo",
-      "title": "Research Assistant",
-      "time": "2025-Present",
-      "link": "",
-      "photo": "assets/img/member/郭炳辰-图片-team.webp",
-      "role": "visiting-ra"
     }
   ],
   "alumni": [
     {
       "name": "Luyao Shen",
-      "title": "Ph.D. Candidate",
+      "title": "Ph.D.",
       "time": "2022-2026",
       "note": "with Prof. Pan Hui",
       "link": "https://yaoyashen.github.io/",
@@ -331,7 +386,7 @@
     },
     {
       "name": "Jiawei Li",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/lijiawei-team.webp",
@@ -339,7 +394,7 @@
     },
     {
       "name": "Qing Shi",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/石青-图片-team.webp",
@@ -347,7 +402,7 @@
     },
     {
       "name": "Yilin Zheng",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/郑亦霖-图片-team.webp",
@@ -355,7 +410,7 @@
     },
     {
       "name": "Huiyang Liang",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/HuiyangLIANG-图片-team-upright.webp",
@@ -363,7 +418,7 @@
     },
     {
       "name": "Siyu Chen",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/陈思宇-图片-team.webp",
@@ -371,7 +426,7 @@
     },
     {
       "name": "Linjie Qiu",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/邱林杰LinjieQiu-图片-team.webp",
@@ -379,7 +434,7 @@
     },
     {
       "name": "Chunwei Yang",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/ChunweiYang-图片-team.webp",
@@ -387,7 +442,7 @@
     },
     {
       "name": "Lingpengkun Meng",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/LingpengkunMeng-图片-team.webp",
@@ -395,7 +450,7 @@
     },
     {
       "name": "Mingshuo Li",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/limingshuo-team.webp",
@@ -403,7 +458,7 @@
     },
     {
       "name": "Yan Li",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/liyan-team.webp",
@@ -411,7 +466,7 @@
     },
     {
       "name": "Qingyu Zhang",
-      "title": "MPhil Student",
+      "title": "MPhil",
       "time": "2024-2026",
       "link": "",
       "photo": "assets/img/member/zhangqingyu-team.webp",
@@ -646,6 +701,14 @@
       "time": "2025-2026",
       "link": "",
       "photo": "assets/img/member/fangyixuan-team.webp",
+      "role": "visiting-ra"
+    },
+    {
+      "name": "Bingchen Guo",
+      "title": "Research Assistant",
+      "time": "2025-2026",
+      "link": "",
+      "photo": "assets/img/member/郭炳辰-图片-team.webp",
       "role": "visiting-ra"
     }
   ]

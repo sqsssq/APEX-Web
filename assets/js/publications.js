@@ -9,7 +9,9 @@ async function loadPublications() {
   try {
     // 加载JSON数据
     // 数据源：从 auto-pub-list-openalex.json 读取
-    const response = await fetch('assets/data/auto-pub-list-openalex.json');
+    const response = await fetch('assets/data/auto-pub-list-openalex.json', {
+      cache: 'no-store'
+    });
     const data = await response.json();
 
     const rawPublications = Array.isArray(data.publications) ? data.publications : [];
@@ -75,6 +77,7 @@ function transformPublications(rawPublications) {
       authors,
       venue: pub.venue || pub.venue_abbr || '',
       year: pub.year || '',
+      publicationDate: pub.publication_date || '',
       link: pub.link || '',
       type: ['Journal', 'Conference'].includes(type) ? type : 'Other'
     };
@@ -118,7 +121,10 @@ function groupByYear(publications) {
     })
     .map(year => ({
       year,
-      publications: grouped[year]
+      publications: grouped[year].sort((a, b) => {
+        const dateOrder = (b.publicationDate || '').localeCompare(a.publicationDate || '');
+        return dateOrder || a.title.localeCompare(b.title);
+      })
     }));
 }
 

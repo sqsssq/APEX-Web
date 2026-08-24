@@ -13,6 +13,7 @@
       "authors": ["..."],
       "venue": "...",
       "year": "2025",
+      "publication_date": "2025-01-01",
       "link": "...",
       "type": "Journal|Conference|Unknown",
       "doi": "..."
@@ -392,6 +393,7 @@ def normalize_work(
 
     title = (work.get("display_name") or "").strip()
     year = work.get("publication_year")
+    publication_date = (work.get("publication_date") or "").strip()
     if not title or not year:
         return None
 
@@ -423,6 +425,7 @@ def normalize_work(
         "authors": authors,
         "venue": venue,
         "year": str(year),
+        "publication_date": publication_date,
         "link": link,
         "type": infer_entry_type(work),
         "doi": doi,
@@ -576,14 +579,15 @@ def merge_incremental(
     fetched_pubs: List[Dict[str, Any]],
 ) -> Tuple[List[Dict[str, Any]], int]:
     merged = list(existing_pubs)
-    existing_keys = {publication_key(p) for p in existing_pubs}
+    existing_by_key = {publication_key(p): p for p in existing_pubs}
     added = 0
     for pub in fetched_pubs:
         k = publication_key(pub)
-        if k in existing_keys:
+        if k in existing_by_key:
+            existing_by_key[k]["publication_date"] = pub.get("publication_date", "")
             continue
         merged.append(pub)
-        existing_keys.add(k)
+        existing_by_key[k] = pub
         added += 1
     return merged, added
 
@@ -737,6 +741,7 @@ def main() -> int:
     merged.sort(
         key=lambda x: (
             int(x.get("year", "0") or 0),
+            x.get("publication_date", ""),
             x.get("title", "").lower(),
         ),
         reverse=True,
