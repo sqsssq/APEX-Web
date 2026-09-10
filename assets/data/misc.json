@@ -1,6 +1,38 @@
 {
   "miscItems": [
     {
+      "id": 14,
+      "title": "Teacher's Day 2026",
+      "date": "September 2026",
+      "description": "2026 Teacher's Day",
+      "image": "assets/img/misc/teachers-day-2026-1.webp",
+      "filter": "filter-2026"
+    },
+    {
+      "id": 13,
+      "title": "Teacher's Day 2026",
+      "date": "September 2026",
+      "description": "2026 Teacher's Day",
+      "image": "assets/img/misc/teachers-day-2026-2.webp",
+      "filter": "filter-2026"
+    },
+    {
+      "id": 12,
+      "title": "Teacher's Day 2026",
+      "date": "September 2026",
+      "description": "2026 Teacher's Day",
+      "image": "assets/img/misc/teachers-day-2026-3.webp",
+      "filter": "filter-2026"
+    },
+    {
+      "id": 11,
+      "title": "Teacher's Day 2026",
+      "date": "September 2026",
+      "description": "2026 Teacher's Day",
+      "image": "assets/img/misc/teachers-day-2026-4.webp",
+      "filter": "filter-2026"
+    },
+    {
       "id": 10,
       "title": "CHI 2026",
       "date": "2026",
